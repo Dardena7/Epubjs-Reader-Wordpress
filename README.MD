@@ -12,7 +12,9 @@ Moreover, you can enable "Hypotesis" from https://web.hypothes.is/, which allow 
 ## How to install ?
 
 It's easy !
-Just download all the files, put them in a folder, then add it to your wordpress-plugins folder. 
+Just download all the files, put them in a folder, then add it to your wordpress-plugins folder.
+The plugin will appear in your wordpress extensions.
+Then just activate it !
 
 
 ## What next ?
