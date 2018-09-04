@@ -22,3 +22,7 @@ Then just activate it !
 A new link will appear in your admin menu.  
 Then... Ho it's like common posts with an epub uploader and an option for 'hypothesis', you'll see it can be more easy !  
 I hope you will enjoy !  
+
+## 404 error
+
+If you have a 404 error redirect when clicking on a post. Just go to the admin page --> Settings --> Permalinks. Then click "Save" without modifying anything and it will work fine.

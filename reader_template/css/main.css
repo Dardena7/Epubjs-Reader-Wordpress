@@ -537,14 +537,12 @@ input:-ms-placeholder {
 .modal {
   position: fixed;
   top: 50%;
-  left: 50%;
-  width: 50%;
-  width: 630px;
+  left: 15%;
+  width: 70%;
 
   height: auto;
   z-index: 2000;
   visibility: hidden;
-  margin-left: -320px;
   margin-top: -160px;
 
 }
