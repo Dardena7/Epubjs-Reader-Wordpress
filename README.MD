@@ -22,7 +22,7 @@ Then just activate it !
 A new link will appear in your admin menu.  
 Then... Ho it's like common posts with an epub uploader and an option for 'hypothesis', you'll see it can be more easy !  
 I hope you will enjoy ! 
- 
+d 
 
 ## 404 error
 
